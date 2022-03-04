@@ -1,0 +1,6 @@
+# ninja log v5
+6	320	6680690362154112	build.ninja	f6dc725108a693a4
+482	686	6680686021125217	Tarot_Card_Reader.exe	7ce51495b107f31f
+0	479	6680686019093363	CMakeFiles/Tarot_Card_Reader.dir/reading_driver.cpp.obj	398aeeff2d69df90
+9	721	6680739891439660	CMakeFiles/Tarot_Card_Reader.dir/reading_driver.cpp.obj	398aeeff2d69df90
+722	1016	6680739894342301	Tarot_Card_Reader.exe	7ce51495b107f31f

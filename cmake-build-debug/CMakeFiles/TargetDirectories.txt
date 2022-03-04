@@ -1,0 +1,3 @@
+C:/Users/Coope/Desktop/Comp_Sci_3_The_Compening/Tarot_Card_Reader/cmake-build-debug/CMakeFiles/Tarot_Card_Reader.dir
+C:/Users/Coope/Desktop/Comp_Sci_3_The_Compening/Tarot_Card_Reader/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Coope/Desktop/Comp_Sci_3_The_Compening/Tarot_Card_Reader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
